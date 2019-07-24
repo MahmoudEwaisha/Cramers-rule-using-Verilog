@@ -9,7 +9,11 @@ If you want to test the files, input your matrix in the input.txt as follows.
 If you have a system of equations like 6x + y = 2 and 3x – 2y = -1
 Then write in the input file "input.txt":
 6 1 2
+
+
 3 -2 -1
+
+
 And the same way goes for any number of equations.
 
 Next open “Cramer_main.v”, and change the parameter “size” in line 6 to the size of your input coefficient matrix, that is, if like in the example above you have 2 equations with 2 unknowns, then set the size parameter to 2. If you have 3 equations with 3 unknowns, then set it to 3 and so on.
