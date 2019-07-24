@@ -5,9 +5,7 @@ This project is purely educational. It is an implementation of system of linear 
 The project consists of 2 files; the main verilog file, and a testbench written in SystemVerilog. The full implementation details can be found in the "ReadMe.pdf" file. 
 
 If you want to test the files, input your matrix in the input.txt as follows.
-
 If you have a system of equations like 6x + y = 2 and 3x – 2y = -1
-
 Then write in the input file "input.txt":
 
 
