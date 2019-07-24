@@ -7,12 +7,14 @@ The project consists of 2 files; the main verilog file, and a testbench written 
 If you want to test the files, input your matrix in the input.txt as follows.
 
 If you have a system of equations like 6x + y = 2 and 3x – 2y = -1
+
 Then write in the input file "input.txt":
+
+
 6 1 2
 
 
 3 -2 -1
-
 
 And the same way goes for any number of equations.
 
